@@ -60,3 +60,7 @@ together.
 
 See the [official skill documentation](https://learn.chatgpt.com/docs/build-skills#where-codex-loads-local-skills)
 for local discovery and symlink support.
+
+Thanks to [Matt Pocock](https://github.com/mattpocock/skills) for the original skills adapted here.
+
+Licensed under [MIT](LICENSE).
